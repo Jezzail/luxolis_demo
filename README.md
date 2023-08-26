@@ -3,7 +3,7 @@ Luxolis Demo
 </h1>
 
 <div align="center">
-<a href="https://luxolis-demo.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/Jezzail/luxolis_demo/assets/14903362/11875049-5ed4-4695-8bd2-861b5b4ab63b" alt="twitter" /></a>
+<a href="https://luxolis-demo.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/14903362/263434629-11875049-5ed4-4695-8bd2-861b5b4ab63b.png" alt="twitter" /></a>
  <a href="https://luxolis-demo.vercel.app/" align="center" target="_blank">
    View Live Demo
  </a>
