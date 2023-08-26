@@ -13,7 +13,7 @@ const Modal = (props: ModalProps): JSX.Element => {
   const { message, buttonText, onClick } = props;
 
   return (
-    <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
+    <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center p-10">
       <div className="bg-white rounded p-5 flex flex-col items-center">
         <div className="text-center font-semibold">{message}</div>
         <Button
